@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+div{
+	background-color:lightgray;
+	border:25px solid black;
+	text-align:center;
+	padding:10px;
+}
+
+.moviePix{
+	height:10px;
+	width:10px;
+	opacity:absolute;
+}
+
+img{
+	height:250px;
+	width:250px;
+}
+
+.movieDetail{
+	position:relative;
+	top:5px;
+	left:99px;
+	width:250px;
+	font-size:15px;
+	text-align:start;
+}
